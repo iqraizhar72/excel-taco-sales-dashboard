@@ -1,5 +1,5 @@
 # 🌮 Taco Sales Analysis Dashboard
-## 📌 Project Overview
+# 📌 Project Overview
 
 This Excel project analyzes taco delivery data to understand order patterns, delivery performance, and revenue distribution.
 The project demonstrates data cleaning, transformation, KPI creation, interactive filters (slicers), and visualizations using Microsoft Excel.
