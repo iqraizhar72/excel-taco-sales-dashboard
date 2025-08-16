@@ -7,7 +7,7 @@ The project demonstrates data cleaning, transformation, KPI creation, interactiv
 # 📂 Dataset
 
 The dataset contains the following columns:
-
+|-----------------|----------------------| 
 | Order ID | Unique identifier for each order |
 
 | Restaurant Name | Name of the restaurant |
