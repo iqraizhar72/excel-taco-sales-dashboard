@@ -7,33 +7,33 @@ The project demonstrates data cleaning, transformation, KPI creation, interactiv
 # 📂 Dataset
 
 The dataset contains the following columns:
-| columns   | Description |
-|-----------|---------------------------------| 
-| Order ID  | Unique identifier for each order |
+| columns            | Description |
+|--------------------|---------------------------------| 
+| Order ID           | Unique identifier for each order |
 
-| Restaurant Name | Name of the restaurant |
+| Restaurant Name    | Name of the restaurant |
 
-| Location | Delivery location |
+| Location           | Delivery location |
 
-| Order Time | Time when the order was placed |
+| Order Time         | Time when the order was placed |
 
-| Delivery Time | Time when the order was delivered |
+| Delivery Time      | Time when the order was delivered |
 
-| Delivery Duration (min) | Delivery duration in minutes |
+| Delivery Duration  | Delivery duration in minutes |
 
-| Taco Size | Size of taco (Small, Medium, Large) |
+| Taco Size          | Size of taco (Small, Medium, Large) |
 
-| Taco Type | Type of taco (Vegetarian, Chicken, Beef, etc.) |
+| Taco Type          | Type of taco (Vegetarian, Chicken, Beef, etc.) |
 
-| Toppings Count | Number of toppings added |
+| Toppings Count     | Number of toppings added |
 
-| Distance (km) | Distance between restaurant and delivery location |
+| Distance (km)      | Distance between restaurant and delivery location |
 
-| Price ($) | Order price |
+| Price ($)          | Order price |
 
-| Tip ($) | Tip given by customer |
+| Tip ($)            | Tip given by customer |
 
-| Weekend Order –|Boolean (True/False) | 
+| Weekend Order      |Boolean (True/False) | 
 
 # 🔧 Data Cleaning & Transformation
 
