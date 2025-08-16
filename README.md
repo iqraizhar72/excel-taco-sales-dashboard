@@ -74,7 +74,7 @@ To enable dynamic analysis, slicers were created for:
 
 # 🚀 Tools Used
 
-** Microsoft Excel – for data cleaning, analysis, slicers, and visualizations **
+**Microsoft Excel – for data cleaning, analysis, slicers, and visualizations**
 
 # 📁 Repository Structure
 📂 Taco-Delivery-Analysis
