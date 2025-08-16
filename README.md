@@ -74,7 +74,8 @@ To enable dynamic analysis, slicers were created for:
 ![Dashboard image](docs/Dashboard.png)
 
 
-![Slicer Display](docs/Slicer Display.png) 
+
+![Slicer Display](docs/SlicerDisplay.png)
 
 # 🚀 Tools Used
 
