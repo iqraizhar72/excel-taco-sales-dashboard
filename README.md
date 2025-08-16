@@ -49,15 +49,15 @@ The dataset contains the following columns:
 
 To enable dynamic analysis, slicers were created for:
 
--Location
+- Location
 
--Restaurant
+- Restaurant
 
--Taco Type
+- Taco Type
 
--Taco Size
+- Taco Size
 
--Weekend Order (True/False)
+- Weekend Order (True/False)
 
 # 📈 Visualizations (Excel Charts)
 | Chart                |  Type |
@@ -74,7 +74,7 @@ To enable dynamic analysis, slicers were created for:
 
 # 🚀 Tools Used
 
-Microsoft Excel – for data cleaning, analysis, slicers, and visualizations
+** Microsoft Excel – for data cleaning, analysis, slicers, and visualizations **
 
 # 📁 Repository Structure
 📂 Taco-Delivery-Analysis
