@@ -83,10 +83,18 @@ To enable dynamic analysis, slicers were created for:
 
 # 📁 Repository Structure
 
-```📂 Taco-Delivery-Analysis
- ┣ 📊 Taco_Delivery_Data.xlsx   # Cleaned dataset with KPIs & dashboard
- ┣ 📸 screenshots/              # (optional) screenshots of charts/dashboard
- ┗ 📄 README.md                 # Project documentation
+```
+📂 excel-taco-sales-dashboard/
+│
+├── Data/
+│   └── taco_sales_(2024-2025).csv
+│
+├── docs/
+│   ├── Dashboard.png
+│   └── SlicerDisplay.png
+│
+├── Taco Sales Dashboard.xlsx
+└── README.md
 ```
 
 
