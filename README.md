@@ -77,10 +77,10 @@ To enable dynamic analysis, slicers were created for:
 **Microsoft Excel – for data cleaning, analysis, slicers, and visualizations**
 
 # 📁 Repository Structure
-📂 Taco-Delivery-Analysis
+```📂 Taco-Delivery-Analysis
  ┣ 📊 Taco_Delivery_Data.xlsx   # Cleaned dataset with KPIs & dashboard
  ┣ 📸 screenshots/              # (optional) screenshots of charts/dashboard
- ┗ 📄 README.md                 # Project documentation
+ ┗ 📄 README.md                 # Project documentation ```
 
 # 👤 Author
 
