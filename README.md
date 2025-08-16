@@ -71,7 +71,7 @@ To enable dynamic analysis, slicers were created for:
 |Restaurant-wise Tip & Revenue | Bar Chart|
 
 (📸 Add screenshots of these charts in the repo for better presentation.)
-
+![Dashboard image](docs/Dashboars.png)
 # 🚀 Tools Used
 
 **Microsoft Excel – for data cleaning, analysis, slicers, and visualizations**
