@@ -70,7 +70,7 @@ To enable dynamic analysis, slicers were created for:
 |Average Delivery Duration by Restaurants | Line Chart|
 |Restaurant-wise Tip & Revenue | Bar Chart|
 
-# Dashboard Overview
+# 📊 Dashboard Overview
 ## Dashboard
 ![Dashboard image](docs/Dashboard.png)
 
