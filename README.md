@@ -10,29 +10,17 @@ The dataset contains the following columns:
 | columns            | Description                                       |
 |--------------------|---------------------------------------------------| 
 | Order ID           | Unique identifier for each order                  |
-
 | Restaurant Name    | Name of the restaurant                            |
-
 | Location           | Delivery location                                 |
-
 | Order Time         | Time when the order was placed                    |
-
 | Delivery Time      | Time when the order was delivered                 |
-
 | Delivery Duration  | Delivery duration in minutes                      |
-
 | Taco Size          | Size of taco (Small, Medium, Large)               |
-
 | Taco Type          | Type of taco (Vegetarian, Chicken, Beef, etc.)    |
-
 | Toppings Count     | Number of toppings added                          |
-
 | Distance (km)      | Distance between restaurant and delivery location |
-
 | Price ($)          | Order price                                       |
-
 | Tip ($)            | Tip given by customer                             |
-
 | Weekend Order      | Boolean (True/False)                               | 
 
 # 🔧 Data Cleaning & Transformation
