@@ -25,54 +25,49 @@ The dataset contains the following columns:
 
 # 🔧 Data Cleaning & Transformation
 
-Created Total Revenue column (Price + Tip)
+- Created Total Revenue column (Price + Tip)
 
-Extracted Order Date and Order Time separately
+- Extracted Order Date and Order Time separately
 
-Changed data types for Date and Time columns
+- Changed data types for Date and Time columns
 
-Applied filters to cleanly analyze data
+- Applied filters to cleanly analyze data
 
 # 📊 Key Performance Indicators (KPIs)
 
-Total Orders
+- Total Orders
 
-Total Revenue
+- Total Revenue
 
-Average Delivery Duration
+- Average Delivery Duration
 
-Average Distance
+- Average Distance
 
-Average Order Value (AOV) - (Total Revenue / Total Orders)
+- Average Order Value (AOV) - (Total Revenue / Total Orders)
 
 # 🎛 Interactive Slicers
 
 To enable dynamic analysis, slicers were created for:
 
-Location
+-Location
 
-Restaurant
+-Restaurant
 
-Taco Type
+-Taco Type
 
-Taco Size
+-Taco Size
 
-Weekend Order (True/False)
+-Weekend Order (True/False)
 
 # 📈 Visualizations (Excel Charts)
-
+| Chart                |  Type |
+|-----------------------|---------------|  
 |Revenue by Restaurants | Doughnut Chart|
-
 |Orders by Restaurant | Column Chart|
-
 |Total Orders by Taco Size | Pie Chart|
-
 |Total Orders by Taco Type | Pie Chart|
-
 |Day-wise Orders (Weekdays vs Weekends) | Doughnut Chart|
-
 |Average Delivery Duration by Restaurants | Line Chart|
-
 |Restaurant-wise Tip & Revenue | Bar Chart|
 
 (📸 Add screenshots of these charts in the repo for better presentation.)
